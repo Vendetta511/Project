@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(213, 220, 234);
+}
+#header {
+    font-style: italic;
+}
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+}
+.submit {
+    display: none;
+}
