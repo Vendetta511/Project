@@ -1,5 +1,4 @@
-const urlAPI = "https://opentdb.com/api.php?amount=5&category=23&difficulty=medium&type=multiple"
-
+const urlAPI = 
 //create a function that gets data using the API and siplays it on the webpage
 function getData(){
     fetch(urlAPI)
